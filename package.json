@@ -4,7 +4,7 @@
   "description": "Write unit tests for a JavaScript app using the Jest library. Use AAA pattern for unit tests and TDD approach.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch *.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
