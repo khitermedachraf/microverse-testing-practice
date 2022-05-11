@@ -1,0 +1,23 @@
+{
+  "name": "microverse-testing-practice",
+  "version": "1.0.0",
+  "description": "Write unit tests for a JavaScript app using the Jest library. Use AAA pattern for unit tests and TDD approach.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khitermedachraf/microverse-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khitermedachraf/microverse-testing-practice/issues"
+  },
+  "homepage": "https://github.com/khitermedachraf/microverse-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
